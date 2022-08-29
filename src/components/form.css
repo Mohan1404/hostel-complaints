@@ -1,0 +1,48 @@
+.c-form{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: aqua;
+    margin:30px;
+    border-radius:10px;
+}
+.total{
+    display:flex;
+    justify-content: center;
+    background-color: rgb(232, 236, 235);
+}
+.inp{
+    width:80%;
+    padding:13px;
+    margin:20px;
+    border:none;
+    background-color:rgb(203, 189, 189);
+    font-size: 14px;
+    display:flex;
+    flex-direction: column;
+}
+.red{
+    color:red;
+    font-size: 14px;
+    width:80%;
+    margin:0 20px 0 20px;
+}
+.row{
+    display:flex;
+    flex-direction: column;
+
+}
+.btn{
+    border:none;
+    margin:20px;
+    width:85%;
+    padding:10px;
+    border-radius: 10px;
+
+}
+.btn:hover{
+    background-color:skyblue;
+    color:white;
+    cursor:pointer;
+}

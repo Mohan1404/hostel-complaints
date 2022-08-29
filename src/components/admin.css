@@ -1,0 +1,34 @@
+.card-admin{
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    position:absolute;
+    padding:50px;
+    background-color: aqua;
+    width:300px;
+    border-radius: 20px;
+    box-shadow: 5px 5px #076d81;;
+  }
+  .cards{
+    margin-top:6rem;
+    display:flex;
+    justify-content: center;
+    
+  }
+  .card-info{
+    padding:10px 40px 10px 40px;
+    margin-bottom: 20px;
+    background-color: white;
+  }
+  .card-btn{
+    width:250px;
+    height:40px;
+    background-color: white;
+  
+  }
+  .card-btn:hover{
+      background-color:black;
+      color:white;
+      cursor:pointer;
+  }

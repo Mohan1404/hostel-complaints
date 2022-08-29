@@ -1,0 +1,36 @@
+.card-student{
+  display:flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  position:absolute;
+  padding:50px;
+  width:300px;
+  background-color: #2CA3C1;
+  border-radius: 20px;
+  box-shadow: 5px 5px #5ac5db;
+
+}
+.cards{
+  margin-top:2rem;
+  display:flex;
+  justify-content: center;
+  
+  
+}
+.card-info{
+  padding:10px 40px 10px 40px;
+  margin-bottom: 20px;
+  background-color: white;
+}
+.card-btn{
+  width:250px;
+  height:40px;
+  background-color: white;
+
+}
+.card-btn:hover{
+    background-color:black;
+    color:white;
+    cursor:pointer;
+}
