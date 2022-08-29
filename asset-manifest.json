@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/hostel-complaints/static/css/main.5802a2d3.css",
+    "main.js": "/hostel-complaints/static/js/main.d18550ed.js",
+    "static/js/787.6ed8e114.chunk.js": "/hostel-complaints/static/js/787.6ed8e114.chunk.js",
+    "static/media/backroundimage.jpg": "/hostel-complaints/static/media/backroundimage.bbe29d5753d9d64ae993.jpg",
+    "index.html": "/hostel-complaints/index.html",
+    "main.5802a2d3.css.map": "/hostel-complaints/static/css/main.5802a2d3.css.map",
+    "main.d18550ed.js.map": "/hostel-complaints/static/js/main.d18550ed.js.map",
+    "787.6ed8e114.chunk.js.map": "/hostel-complaints/static/js/787.6ed8e114.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5802a2d3.css",
+    "static/js/main.d18550ed.js"
+  ]
+}
